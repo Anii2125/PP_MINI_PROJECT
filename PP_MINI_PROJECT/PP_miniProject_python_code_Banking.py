@@ -9,6 +9,8 @@ import os
 # printReceipt()
 # exitMenu()
 # errorMessage()
+# checkPin()
+# changePin()
 
 
 # Main function !!!!
@@ -16,11 +18,11 @@ import os
 def main():
 
     Total_balance = 25000.00
-
+    set_pin = 1234
     flag = True
     clearScreen()
-    print("\n***WELCOME TO THE SBI ATM (BODKHI)***\n\n")
-
+    print("\n***WELCOME TO THE SBI ATM (BODKHI)***\n")
+    checkPin(set_pin)
     while (flag):
 
         mainMenu()
@@ -35,19 +37,27 @@ def main():
         if option == 1:
 
             clearScreen()
+            checkPin(set_pin)
             checkBalance(Total_balance)
 
         elif option == 2:
 
             clearScreen()
+            checkPin(set_pin)
             Total_balance = moneyDeposit(Total_balance)
 
         elif option == 3:
 
             clearScreen()
+            checkPin(set_pin)
             Total_balance = moneyWithdraw(Total_balance)
 
         elif option == 4:
+            clearScreen()
+            checkPin(set_pin)
+            set_pin = changePin(set_pin)
+
+        elif option == 5:
 
             clearScreen()
             printReceipt()
@@ -56,12 +66,12 @@ def main():
         else:
             errorMessage()
 
-        print("_________________________________________")
-        print("_________________________________________\n")
+        print("_______________________________________")
+        print("_______________________________________\n")
 
         print("Press:\n 1 to continue ")
         print(" 2 to exit \n")
-        print("\nYour Selection :", end="")
+        print("\nYour Selection:\t", end="")
         choice = int(input())
         os.system("cls")
 
@@ -73,11 +83,13 @@ def main():
 # Defination of Functions
 
 def mainMenu():
+    print("\t!! MENU !!\n")
     print("Please choose one of the options below\nPress:\n")
     print(" 1   To Check your Balance")
     print(" 2   To Deposit")
     print(" 3   To Withdraw")
-    print(" 4   Exit")
+    print(" 4   To change your pin")
+    print(" 5   Exit")
 
 
 def clearScreen():
@@ -136,10 +148,10 @@ def printReceipt():
     print("Do you want a receipt..???\n")
     print("Press:\n\n 1 to print reciept\n 2 to Exit without the receipt \n")
 
-    print("_______________________________________")
-    print("_______________________________________\n")
+    print("_____________________________________")
+    print("_____________________________________\n")
 
-    print("\nYour Selection :", end="")
+    print("\nYour Selection:\t", end="")
     reciept = int(input())
 
     if (reciept == 1):
@@ -160,6 +172,31 @@ def exitMenu():
 def errorMessage():
 
     print("!!!Invalid number!!!\n")
+
+
+def checkPin(set_pin):
+
+    print("\nEnter your 4 Digit ATM PIN\n")
+    get_pin = int(input())
+    if (set_pin == get_pin):
+
+        print("checked and compared\n")
+        clearScreen()
+
+    else:
+
+        print("\n!!!INCORRECT PIN!!!!\nTry AGAIN!!!!\n")
+        checkPin(set_pin)
+
+
+def changePin(set_pin):
+
+    print("Enter new pin\n")
+    new_pin = int(input())
+    set_pin = new_pin
+    print(f"Your new pin is : {set_pin}")
+
+    return set_pin
 
 
 main()
