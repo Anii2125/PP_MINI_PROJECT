@@ -10,3 +10,7 @@ profiling done on c code
 code converted into python
 
 python code and edited c code both uploaded on github
+
+edited and updated both python and C code
+(changePin and checkPin functions added in both the codes)
+
