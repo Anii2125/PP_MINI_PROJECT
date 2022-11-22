@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.4)  23 NOV 2022 01:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.4)  23 NOV 2022 01:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,23 +341,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 516--519
 
  []
 
-[16 <./output_py_1.png> <./output_py_2.png>] [17 <./output_py_3.png>]
+[16 <./output_py_1.png> <./output_py_2.png>]
+<github1.png, id=79, 1384.42218pt x 750.55406pt>
+File: github1.png Graphic file (type png)
+<use github1.png>
+Package pdftex.def Info: github1.png  used on input line 522.
+(pdftex.def)             Requested size: 484.55502pt x 262.69786pt.
+<github2.png, id=80, 973.38657pt x 733.99219pt>
+File: github2.png Graphic file (type png)
+<use github2.png>
+Package pdftex.def Info: github2.png  used on input line 523.
+(pdftex.def)             Requested size: 340.6904pt x 256.90111pt.
+
+Overfull \hbox (47.04715pt too wide) in paragraph at lines 522--524
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--524
+
+ []
+
+[17 <./output_py_3.png> <./github1.png>] [18 <./github2.png>]
 (PP_miniProject_REPORT_latexFILE.aux) ) 
 Here is how much of TeX's memory you used:
- 3619 strings out of 478338
- 56190 string characters out of 2853115
+ 3633 strings out of 478338
+ 56406 string characters out of 2853115
  373931 words of memory out of 3000000
- 22044 multiletter control sequences out of 15000+600000
+ 22056 multiletter control sequences out of 15000+600000
  470637 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,62p,410b,422s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/mikTex/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/mikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/mikTex/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PP_miniProject_REPORT_latexFILE.pdf (17 pages, 756161 bytes).
-
+Output written on PP_miniProject_REPORT_latexFILE.pdf (18 pages, 1066918 bytes)
+.
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
