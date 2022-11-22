@@ -1,6 +1,8 @@
 # PP_MINI_PROJECT
 
-Banking code in C
+Title: ATM interface (User side of Banking System)
+
+// Banking code in C
 
 C code completed and uploaded .....
 
@@ -14,3 +16,5 @@ python code and edited c code both uploaded on github
 edited and updated both python and C code
 (changePin and checkPin functions added in both the codes)
 
+Project report made in latex
+latex code and output pdf files uploaded
