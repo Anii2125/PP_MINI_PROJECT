@@ -1,0 +1,363 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.4)  23 NOV 2022 01:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./PP_miniProject_REPORT_latexFILE.tex
+(PP_miniProject_REPORT_latexFILE.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04> (C:\mikTex\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\mikTex\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\mikTex\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\mikTex\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count193
+\c@Blindtext=\count194
+\c@blind@countparstart=\count195
+\blind@countxx=\count196
+\blindtext@numBlindtext=\count197
+\blind@countyy=\count198
+\c@blindlist=\count199
+\c@blindlistlevel=\count266
+\c@blindlist@level=\count267
+\blind@listitem=\count268
+\c@blind@listcount=\count269
+\c@blind@levelcount=\count270
+\blind@mathformula=\count271
+\blind@Mathformula=\count272
+\c@blind@randomcount=\count273
+\c@blind@randommax=\count274
+\c@blind@pangramcount=\count275
+\c@blind@pangrammax=\count276
+) (C:\mikTex\tex/latex\fancyhdr.sty
+\headwidth=\dimen139
+)
+(C:\mikTex\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\mikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\mikTex\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\mikTex\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks17
+ (C:\mikTex\tex/latex/geometry\geometry.cfg))
+(C:\mikTex\tex/latex/listings\listings.sty
+\lst@mode=\count280
+\lst@gtempboxa=\box51
+\lst@token=\toks18
+\lst@length=\count281
+\lst@currlwidth=\dimen148
+\lst@column=\count282
+\lst@pos=\count283
+\lst@lostspace=\dimen149
+\lst@width=\dimen150
+\lst@newlines=\count284
+\lst@lineno=\count285
+\lst@maxwidth=\dimen151
+
+(C:\mikTex\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count286
+\lst@skipnumbers=\count287
+\lst@framebox=\box52
+)
+(C:\mikTex\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\mikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\mikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\mikTex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\mikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\mikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(C:\mikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box53
+)
+(PP_miniProject_REPORT_latexFILE.aux)
+\openout1 = `PP_miniProject_REPORT_latexFILE.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(80.0pt, 437.50787pt, 80.0pt)
+* v-part:(T,H,B)=(80.0pt, 685.04684pt, 80.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=437.50787pt
+* \textheight=685.04684pt
+* \oddsidemargin=7.73001pt
+* \evensidemargin=7.73001pt
+* \topmargin=-29.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count289
+(C:\mikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen154
+\scratchbox=\box54
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen155
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks20
+) (C:\mikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\mikTex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+[1{C:/Users/anish/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+] [2]
+[3] [4] [5]
+<output_c_1.png, id=20, 563.85657pt x 812.28468pt>
+File: output_c_1.png Graphic file (type png)
+<use output_c_1.png>
+Package pdftex.def Info: output_c_1.png  used on input line 286.
+(pdftex.def)             Requested size: 197.35275pt x 284.3039pt.
+<output_c_2.png, id=22, 508.90125pt x 807.7678pt>
+File: output_c_2.png Graphic file (type png)
+<use output_c_2.png>
+Package pdftex.def Info: output_c_2.png  used on input line 287.
+(pdftex.def)             Requested size: 178.1181pt x 282.72296pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
+
+ []
+
+[6]
+<profilling1.png, id=26, 625.58719pt x 812.28468pt>
+File: profilling1.png Graphic file (type png)
+<use profilling1.png>
+Package pdftex.def Info: profilling1.png  used on input line 292.
+(pdftex.def)             Requested size: 218.95879pt x 284.3039pt.
+<profilling2.png, id=27, 600.74437pt x 804.75656pt>
+File: profilling2.png Graphic file (type png)
+<use profilling2.png>
+Package pdftex.def Info: profilling2.png  used on input line 293.
+(pdftex.def)             Requested size: 210.26367pt x 281.669pt.
+<profilling3.png, id=28, 612.78937pt x 812.28468pt>
+File: profilling3.png Graphic file (type png)
+<use profilling3.png>
+Package pdftex.def Info: profilling3.png  used on input line 294.
+(pdftex.def)             Requested size: 214.47949pt x 284.3039pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--295
+
+ []
+
+[7 <./output_c_1.png> <./output_c_2.png>] [8 <./profilling1.png> <./profilling2
+.png>]
+<debugging1.png, id=40, 596.2275pt x 370.38374pt>
+File: debugging1.png Graphic file (type png)
+<use debugging1.png>
+Package pdftex.def Info: debugging1.png  used on input line 299.
+(pdftex.def)             Requested size: 208.68274pt x 129.63625pt.
+<debugging2.png, id=41, 584.1825pt x 813.0375pt>
+File: debugging2.png Graphic file (type png)
+<use debugging2.png>
+Package pdftex.def Info: debugging2.png  used on input line 300.
+(pdftex.def)             Requested size: 204.46693pt x 284.56738pt.
+<debugging3.png, id=42, 597.73312pt x 813.0375pt>
+File: debugging3.png Graphic file (type png)
+<use debugging3.png>
+Package pdftex.def Info: debugging3.png  used on input line 301.
+(pdftex.def)             Requested size: 209.20972pt x 284.56738pt.
+<debugging4.png, id=43, 591.71063pt x 813.0375pt>
+File: debugging4.png Graphic file (type png)
+<use debugging4.png>
+Package pdftex.def Info: debugging4.png  used on input line 302.
+(pdftex.def)             Requested size: 207.10182pt x 284.56738pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--303
+
+ []
+
+[9 <./profilling3.png> <./debugging1.png>] [10 <./debugging2.png> <./debugging3
+.png>] [11 <./debugging4.png>] [12] [13] [14] [15]
+<output_py_1.png, id=71, 575.14874pt x 813.0375pt>
+File: output_py_1.png Graphic file (type png)
+<use output_py_1.png>
+Package pdftex.def Info: output_py_1.png  used on input line 516.
+(pdftex.def)             Requested size: 201.30507pt x 284.56738pt.
+<output_py_2.png, id=72, 532.99126pt x 808.52063pt>
+File: output_py_2.png Graphic file (type png)
+<use output_py_2.png>
+Package pdftex.def Info: output_py_2.png  used on input line 517.
+(pdftex.def)             Requested size: 186.54973pt x 282.98647pt.
+<output_py_3.png, id=73, 487.06969pt x 804.00375pt>
+File: output_py_3.png Graphic file (type png)
+<use output_py_3.png>
+Package pdftex.def Info: output_py_3.png  used on input line 518.
+(pdftex.def)             Requested size: 170.47693pt x 281.40553pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--519
+
+ []
+
+[16 <./output_py_1.png> <./output_py_2.png>] [17 <./output_py_3.png>]
+(PP_miniProject_REPORT_latexFILE.aux) ) 
+Here is how much of TeX's memory you used:
+ 3619 strings out of 478338
+ 56190 string characters out of 2853115
+ 373931 words of memory out of 3000000
+ 22044 multiletter control sequences out of 15000+600000
+ 470637 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,11n,62p,410b,422s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/mikTex/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/mikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/mikTex/fon
+ts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on PP_miniProject_REPORT_latexFILE.pdf (17 pages, 756161 bytes).
+
+PDF statistics:
+ 97 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
